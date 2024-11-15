@@ -21,6 +21,7 @@ int armCheck(int num) {
     }
 }
 int main() {
+
     int num;
     printf("Enter a Three Digit Integer --> ");
     scanf("%d", &num);
